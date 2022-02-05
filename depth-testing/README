@@ -1,0 +1,5 @@
+Compile:
+g++ main.cpp -o executavel glad.o -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl -lassimp
+
+run:
+./executavel
